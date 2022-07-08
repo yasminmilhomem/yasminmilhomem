@@ -1,0 +1,5 @@
+- 👋 Hi, I’m @yasminmilhomem
+- 👀 I’m interested in Web Development
+- 🌱 I’m currently JavaScript
+- 💞️ I’m looking to collaborate on the Front-End area 
+- 📫 How to reach me: @yasminmilhomem on Instagram
