@@ -1,5 +1,6 @@
 # ✨ Hello World, I'm Yasmin! #
 
+
 ##### 🇧🇷 brazilian #####
 ##### 👩🏻‍💻 huge fan of IT #####
 ##### 📖 finishing a bachelor's degree in Computer Science #####
@@ -10,7 +11,7 @@
 
 <div align="center">
   <a href="https://github.com/yasminmilhomem">
-  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=yasminmilhomem&show_icons=true&theme=swift&include_all_commits=true&count_private=true"/>
+  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=yasminmilhomem&theme=swift&show_icons=true"/>
   <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=yasminmilhomem&layout=compact&langs_count=7&theme=swift"/>
 </div>
 
@@ -39,3 +40,4 @@
   ![Snake](https://github.com/yasminmilhomem/yasminmilhomem/blob/output/github-contribution-grid-snake.svg)
  
 </div>
+](https://github-readme-stats.vercel.app/api?username=yasminmilhomem&theme=swift&line_height=40&show_icons=true)")
