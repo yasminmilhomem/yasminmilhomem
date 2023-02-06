@@ -21,10 +21,13 @@
 
   <img align="center" alt="Yasmin-HTML" height="70" width="70" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original.svg">
   <img align="center" alt="Yasmin-CSS" height="70" width="70" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original.svg">
-    <img align="center" alt="Yasmin-Bootstrap" height="70" width="70" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/bootstrap/bootstrap-plain.svg">
+  <img align="center" alt="Yasmin-Bootstrap" height="70" width="70" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/bootstrap/bootstrap-plain.svg">
     <img align="center" alt="Yasmin-Tailwind" height="70" width="70" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/tailwindcss/tailwindcss-plain.svg">
+  <img align="center" alt="Yasmin-Js" height="70" width="70" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-plain.svg">
   <img align="center" alt="Yasmin-React" height="70" width="70" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/react/react-original.svg">
-    <img align="center" alt="Yasmin-Js" height="70" width="70" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-plain.svg">
+  <!-- <img align="center" alt="Yasmin-Canva" height="70" width="70" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/canva/canva-original.svg"> -->
+  <img align="center" alt="Yasmin-Figma" height="70" width="70" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/figma/figma-plain.svg">
+
 
 </div>
 
