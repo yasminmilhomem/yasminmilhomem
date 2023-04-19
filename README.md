@@ -26,7 +26,7 @@
   <img align="center" alt="Yasmin-Js" height="70" width="70" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-plain.svg">
   <img align="center" alt="Yasmin-React" height="70" width="70" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/react/react-original.svg">
   <!-- <img align="center" alt="Yasmin-Canva" height="70" width="70" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/canva/canva-original.svg"> -->
-  <img align="center" alt="Yasmin-Figma" height="70" width="70" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/figma/figma-plain.svg">
+  <img align="center" alt="Yasmin-Figma" height="70" width="70" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/figma/figma-original.svg">
 
 
 </div>
