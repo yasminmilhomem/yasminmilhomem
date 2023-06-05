@@ -1,13 +1,17 @@
-# ✨ Hello World, I'm Yasmin! #
+# ✨ Hello World, I'm Yasmin!
 
+<img align="right" width="200px" src="https://i.ibb.co/4t87dYD/octocat.png" /> 
 
-##### 🇧🇷 brazilian #####
-##### 👩🏻‍💻 huge fan of IT #####
-##### 📖 finishing a bachelor's degree in Computer Science #####
-##### 💻 currently learning JavaScript and React #####
-##### 🫀 passionate about design and aesthetic #####
+<div display="inline-block">
+  <h4 align="left"> 🇧🇷 brazilian </h4>
+  <h4 align="left"> 👩🏻‍💻 huge fan of IT </h4>
+  <h4 align="left"> 📖 finishing a bachelor's degree in Computer Science </h4>
+  <h4 align="left"> 💻 currently learning JavaScript and React </h4>
+  <h4 align="left"> 🫀 passionate about design and aesthetic </h4>
+</div>
 
 #
+
 
 <div align="center">
   <a href="https://github.com/yasminmilhomem">
