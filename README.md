@@ -1,6 +1,6 @@
 # ✨ Hello World, I'm Yasmin!
 
-<img align="right" width="200px" src="https://i.ibb.co/4t87dYD/octocat.png" /> 
+<img align="right" width="200px" src="https://i.ibb.co/VHbJmTs/octocat.png" /> 
 
 <div display="inline-block">
   <h4 align="left"> 🇧🇷 brazilian </h4>
