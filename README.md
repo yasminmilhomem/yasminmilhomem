@@ -4,8 +4,6 @@
 
 # ✨ Hello World, I'm Yasmin!
 
-</br>
-
 <div display="inline-block">
   <h4 align="left"> 🇧🇷 brazilian </h4>
   <h4 align="left"> 👩🏻‍💻 huge fan of IT </h4>
